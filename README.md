@@ -1,4 +1,4 @@
-# Биомедицинские нанотехнологии и компьютерное зрение (Computer Vision)
+# Компьютерное зрение (Computer Vision)
 
 <p align="center"><img width='60%' src='img/cell_move_short.gif'></p>
 
