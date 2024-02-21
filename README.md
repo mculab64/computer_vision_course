@@ -1,6 +1,6 @@
 # Биомедицинские нанотехнологии и компьютерное зрение (Computer Vision)
 
-<img align="middle" width='50%' src='img/cell_move_short.gif'>
+<p align="center"><img width='50%' src='img/cell_move_short.gif'></p>
 
 > Репозиторий содержит программный код и датасеты для учебного курса по Computer Vision
 
